@@ -1,4 +1,4 @@
-### H3 Problem Statement
+###Problem Statement
 Given a collection of objects class Person { String name; int age; }
 
 find the median and average age of collection
@@ -8,7 +8,7 @@ find longest name
 youngest and oldest person
 count of people in age group >= 18 and <= 60
 
-### H3 Conditions (Read carefully)
+###Conditions (Read carefully)
 No mutation of variable allowed. All variables should be final.
 Use Java 8 Lambdas and Streams API.
 Need automated unit test cases using junit or any other framework.
